@@ -9,7 +9,7 @@ export default function Home() {
           
           <div className="text-center">
             <p className="text-gray-600 dark:text-gray-300 mb-4">
-              할 일 관리 앱에 오신 것을 환영합니다!
+              할 일 관리 앱에 오신 것을 환영~
             </p>
             
             <div className="space-y-2">
